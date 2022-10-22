@@ -15,7 +15,7 @@ export default function Home() {
         
         <p className="mt-3 text-2xl">
  
-         <p className="my-1">Coming Soon...</p>
+         <p className="my-1">sup?</p>
        
         </p>
 
