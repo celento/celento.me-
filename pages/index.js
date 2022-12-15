@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-10 max-w-3xl">
         
-        <p className="mt-3 text-2xl">
+        <p className="mt-3 text-xl">
  
          <p className="my-1">almost done... please check back in a few weeks 😬</p>
        
